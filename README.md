@@ -3,6 +3,7 @@
 
 # Packages installation
 · beautifulsoup4 (ver. 4.13.4)
+
 · requests (ver. 2.32.3)
 
 # Results
