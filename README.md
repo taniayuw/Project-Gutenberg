@@ -21,4 +21,5 @@ Yu Wang (Tania)
 
 # Acknowledgements
 Many thanks to my teacher Te-Lun Yang (Darren) who opened my gate to the world of web scraping and it is how this web scraping project was made!
+
 Thank you to all the people who share codes on GitHub.
