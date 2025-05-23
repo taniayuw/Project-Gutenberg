@@ -6,7 +6,7 @@
 · requests (ver. 2.32.3)
 
 # Results
-> Start running the program, books are stored into the folder named "project_gutenberg"
+> Start running the code in VS Code, books are stored into the folder named "project_gutenberg"
 ![image](https://github.com/user-attachments/assets/72d5a8ca-c611-41e8-bc6e-8889f5914870)
 
 > All books contain Chinese contents only.
